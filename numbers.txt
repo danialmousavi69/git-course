@@ -4,8 +4,5 @@ five
 seven
 nine
 eleven
-<<<<<<< Updated upstream
 therteen
-=======
 fifteen
->>>>>>> Stashed changes
